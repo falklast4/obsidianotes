@@ -1,0 +1,3 @@
+The purpose of DevSecOps (DSO) is to integrate security practices into every phase of the software development lifecycle, from planning to testing to release to operations. The goal is to ensure that software is developed and deployed with security in mind, and that it is continuously monitored and updated to address new security threats.
+
+Traditionally, security was often treated as an afterthought in software development, with security measures being added only after the software was already built. However, this approach can be risky because it can leave software vulnerable to attacks or data breaches.

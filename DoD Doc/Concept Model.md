@@ -1,0 +1,1 @@
+![[Screenshot 2023-05-13 at 10-30-50 DoD Enterprise DevSecOps Reference Design v1.0_Public Release.pdf.png]]
